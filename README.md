@@ -13,8 +13,6 @@ This repository contains a collection of GitHub Actions workflow files designed 
   - [CD Workflow](#cd-workflow)
   - [Linting Workflow](#linting-workflow)
   - [Custom Workflow](#custom-workflow)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
